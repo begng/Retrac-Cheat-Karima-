@@ -1,6 +1,6 @@
 # Retrac Cheat (Karima)
 
-![Karima Cheat](https://media.discordapp.net/attachments/1402376829632778240/1411463044546170952/maxresdefault.jpg)
+https://media.discordapp.net/attachments/1402376829632778240/1411463044546170952/maxresdefault.jpg
 
 ## Overview
 
