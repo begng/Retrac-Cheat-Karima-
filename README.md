@@ -14,7 +14,7 @@
 
 ## Overview
 
-Fortnite-External, also known as the **Karima Framework**, is a sophisticated external tool designed to integrate directly with the game engine, offering a wide array of advanced features for testing, development, and performance simulation. The framework showcases deep memory management, modular design, dynamic feature toggling, and real-time configuration management.  
+Karima Project, also known as the **Karima Framework**, is a sophisticated external tool designed to integrate directly with the game engine, offering a wide array of advanced features for testing, development, and performance simulation. The framework showcases deep memory management, modular design, dynamic feature toggling, and real-time configuration management.  
 
 The architecture emphasizes flexibility, stability, and modularity. Every feature is implemented as an independent module, allowing users to enable or disable specific functionalities on demand. Karima Framework leverages advanced programming techniques including memory reading and writing, hotkey integration, and runtime configuration updates.  
 
