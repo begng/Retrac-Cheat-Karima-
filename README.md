@@ -1,6 +1,6 @@
 # Fortnite-External Educational Version
 
-![Project Banner](assets/maxresdefault.jpg)
+![Project Banner](maxresdefault.jpg)
 
 ## Table of Contents
 
