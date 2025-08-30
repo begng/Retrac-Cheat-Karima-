@@ -1,21 +1,21 @@
-# Fortnite-External Educational Version
+# Retrac Cheat (Karima)
 
-![Project Banner](maxresdefault.jpg)
+![Project Banner](assets/maxresdefault.jpg)
 
 ## Table of Contents
 
 1. [Overview](#overview)  
-2. [Purpose](#purpose)  
+2. [Architecture](#architecture)  
 3. [Features](#features)  
 4. [Installation](#installation)  
 5. [Usage](#usage)  
 6. [Configuration](#configuration)  
 7. [Module Breakdown](#module-breakdown)  
-8. [Development Practices](#development-practices)  
-9. [Roadmap](#roadmap)  
-10. [Best Practices](#best-practices)  
-11. [Changelog](#changelog)  
-12. [Security and Disclaimer](#security-and-disclaimer)  
+8. [Hotkey Integration](#hotkey-integration)  
+9. [Logging System](#logging-system)  
+10. [Development](#development)  
+11. [Roadmap](#roadmap)  
+12. [Changelog](#changelog)  
 13. [License](#license)  
 14. [Contact](#contact)  
 15. [Acknowledgments](#acknowledgments)
@@ -24,62 +24,84 @@
 
 ## Overview
 
-The Fortnite-External Educational Version is a safe, fully legal simulation framework designed for developers and learners to study modular programming, memory interaction, and feature integration in complex software projects. While inspired by external cheat projects, this repository contains **no code intended for live online games**, and all modules are purely educational.
+Fortnite-External, also known as the **Karima Framework**, is a sophisticated external tool designed to integrate directly with the game engine, offering a wide array of advanced features for testing, development, and performance simulation. The framework showcases deep memory management, modular design, dynamic feature toggling, and real-time configuration management.  
 
-This project demonstrates how a modular external program could be structured, including feature toggles, configuration management, logging, and hotkey binding, all within a sandboxed environment.
+The architecture emphasizes flexibility, stability, and modularity. Every feature is implemented as an independent module, allowing users to enable or disable specific functionalities on demand. Karima Framework leverages advanced programming techniques including memory reading and writing, hotkey integration, and runtime configuration updates.  
+
+The framework provides a professional example of how complex external tools are structured, with a focus on scalability, maintainability, and high-performance execution.  
+
+Karima Framework has been optimized for low-latency operations, ensuring seamless integration with runtime environments. Logging and debugging tools are built-in to allow real-time monitoring of all active modules and their states.  
 
 ---
 
-## Purpose
+## Architecture
 
-The main goals of this project are:
+The project is organized into multiple layers:
 
-- Teach advanced modular software architecture.  
-- Demonstrate memory reading and writing in a controlled environment.  
-- Provide examples of hotkey integration and event handling.  
-- Offer a real-world example of configuration-driven feature toggling.  
-- Show best practices for code documentation, project organization, and development workflows.
+1. **Core Engine**  
+   - Handles memory access, module initialization, and event management.  
+   - Central hub connecting all modules with runtime monitoring.  
 
-By exploring this project, learners can gain insight into complex software design while ensuring their experiments remain entirely legal.
+2. **Module System**  
+   - Each feature is encapsulated as a self-contained module.  
+   - Supports dynamic loading/unloading to minimize resource usage.  
+
+3. **Configuration Layer**  
+   - JSON-based configuration with hotkey binding, parameter tuning, and logging options.  
+   - Supports runtime reloads for dynamic adjustments.  
+
+4. **Hotkey & Event Manager**  
+   - Handles keyboard input and binds keys to module actions.  
+   - Allows seamless toggling of multiple modules simultaneously.  
+
+5. **Logging Engine**  
+   - Provides detailed runtime logs with timestamps, module states, and error tracking.  
+
+6. **Assets & Resources**  
+   - Stores images, configuration templates, and auxiliary files required for framework operation.  
 
 ---
 
 ## Features
 
-The project includes the following simulated modules and systems:
+- **Aimbot System**  
+  - Advanced targeting algorithms with configurable sensitivity and target priority.  
+  - Supports real-time adjustments and smooth target acquisition.  
 
-1. **Memory Manager Simulation**  
-   - Learn how memory can be read and manipulated in a safe sandbox.  
-   - Understand pointers, addresses, and memory offsets.  
+- **ESP & Object Highlighting**  
+  - Displays entities and objects within the environment.  
+  - Customizable colors, visibility options, and overlay transparency.  
 
-2. **Module Loader**  
-   - Demonstrates loading and unloading independent modules at runtime.  
-   - Each module can be toggled independently to test isolated functionality.  
+- **Recoil Control & Accuracy Optimization**  
+  - Stabilizes weapon handling for consistent performance.  
+  - Adjustable parameters allow fine-tuning of shot mechanics.  
 
-3. **Configuration System**  
-   - Full JSON-based configuration for all modules.  
-   - Supports hotkey mapping, parameter tuning, and saving/loading settings.  
+- **Movement Modifiers**  
+  - Adjustable speed, jump, and motion controls.  
+  - Designed for real-time experimentation with movement mechanics.  
 
-4. **Hotkey Integration**  
-   - Bind keys to enable or disable features dynamically.  
-   - Helps understand event-driven programming.  
+- **Module Management**  
+  - Enable or disable modules individually.  
+  - Modular architecture ensures minimal interference between features.  
 
-5. **Logging System**  
-   - Detailed logs showing module activation, parameter values, and runtime events.  
-   - Encourages learning debugging and monitoring techniques.
+- **Configuration Hotkeys**  
+  - Bind keys for all major functionalities.  
+  - Supports multi-module toggling and runtime key rebinding.  
 
-6. **Simulation Environment**  
-   - Provides a virtual sandbox where learners can safely test all features.  
-   - Includes pre-built “dummy targets” to simulate game entities.  
+- **Advanced Logging**  
+  - Full activity logs for monitoring module states, hotkey usage, and configuration changes.  
+  - Supports verbose and compact modes for detailed analysis.  
+
+- **Performance Optimization**  
+  - Multi-threaded execution for low-latency operations.  
+  - Minimal CPU and memory footprint while maintaining feature reliability.  
 
 ---
 
 ## Installation
 
-To set up this educational framework:
-
-1. **Clone the repository:**
+1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/fortnite-educational.git
-cd fortnite-educational
+git clone https://github.com/yourusername/fortnite-external.git
+cd fortnite-external
