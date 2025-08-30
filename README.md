@@ -12,26 +12,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Overview](#overview)  
-2. [Architecture](#architecture)  
-3. [Features](#features)  
-4. [Installation](#installation)  
-5. [Usage](#usage)  
-6. [Configuration](#configuration)  
-7. [Module Breakdown](#module-breakdown)  
-8. [Hotkey Integration](#hotkey-integration)  
-9. [Logging System](#logging-system)  
-10. [Development](#development)  
-11. [Roadmap](#roadmap)  
-12. [Changelog](#changelog)  
-13. [License](#license)  
-14. [Contact](#contact)  
-15. [Acknowledgments](#acknowledgments)
-
----
-
 ## Overview
 
 Fortnite-External, also known as the **Karima Framework**, is a sophisticated external tool designed to integrate directly with the game engine, offering a wide array of advanced features for testing, development, and performance simulation. The framework showcases deep memory management, modular design, dynamic feature toggling, and real-time configuration management.  
