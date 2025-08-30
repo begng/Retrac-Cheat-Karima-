@@ -1,6 +1,6 @@
 # Retrac Cheat (Karima)
 
-![Project Banner](assets/maxresdefault.jpg)
+![Project Banner](maxresdefault.jpg)
 
 ## Features Overview
 
