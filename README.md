@@ -24,6 +24,10 @@ Karima Framework has been optimized for low-latency operations, ensuring seamles
 
 ---
 
+![Demo](demo.gif)
+
+---
+
 ## Architecture
 
 The project is organized into multiple layers:
