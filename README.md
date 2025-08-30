@@ -1,61 +1,85 @@
-# Karima Cheat for Retrac
+# Fortnite-External Educational Version
 
-![Karima Cheat](assets/maxresdefault.jpg)
+![Project Banner](assets/maxresdefault.jpg)
 
 ## Table of Contents
 
 1. [Overview](#overview)  
-2. [Features](#features)  
-3. [Installation](#installation)  
-4. [Usage](#usage)  
-5. [Configuration](#configuration)  
-6. [Security and Disclaimer](#security-and-disclaimer)  
-7. [Development](#development)  
-8. [Roadmap](#roadmap)  
-9. [Contribution Guidelines](#contribution-guidelines)  
-10. [License](#license)  
-11. [Contact](#contact)  
-12. [Acknowledgments](#acknowledgments)
+2. [Purpose](#purpose)  
+3. [Features](#features)  
+4. [Installation](#installation)  
+5. [Usage](#usage)  
+6. [Configuration](#configuration)  
+7. [Module Breakdown](#module-breakdown)  
+8. [Development Practices](#development-practices)  
+9. [Roadmap](#roadmap)  
+10. [Best Practices](#best-practices)  
+11. [Changelog](#changelog)  
+12. [Security and Disclaimer](#security-and-disclaimer)  
+13. [License](#license)  
+14. [Contact](#contact)  
+15. [Acknowledgments](#acknowledgments)
 
 ---
 
 ## Overview
 
-Karima is an advanced, private cheat framework developed for Retrac. It is designed to provide a controlled environment for exploring and understanding game mechanics, memory manipulation, and feature integration in complex systems. This project demonstrates advanced programming techniques including modular design, real-time configuration, memory injection, and feature toggling.
+The Fortnite-External Educational Version is a safe, fully legal simulation framework designed for developers and learners to study modular programming, memory interaction, and feature integration in complex software projects. While inspired by external cheat projects, this repository contains **no code intended for live online games**, and all modules are purely educational.
 
-Karima is strictly intended for educational purposes. Users can study the underlying mechanics, experiment with different strategies, and learn about advanced coding concepts applied to game environments. The system emphasizes stability and modularity, allowing features to be enabled, disabled, or modified independently without affecting the overall integrity of the software.
+This project demonstrates how a modular external program could be structured, including feature toggles, configuration management, logging, and hotkey binding, all within a sandboxed environment.
+
+---
+
+## Purpose
+
+The main goals of this project are:
+
+- Teach advanced modular software architecture.  
+- Demonstrate memory reading and writing in a controlled environment.  
+- Provide examples of hotkey integration and event handling.  
+- Offer a real-world example of configuration-driven feature toggling.  
+- Show best practices for code documentation, project organization, and development workflows.
+
+By exploring this project, learners can gain insight into complex software design while ensuring their experiments remain entirely legal.
+
+---
 
 ## Features
 
-Karima provides an extensive set of functionalities aimed at giving users a deep understanding of game mechanics:
+The project includes the following simulated modules and systems:
 
-- **Precision Aimbot**:  
-  Automatically targets opponents with configurable sensitivity and target prioritization. Helps study targeting algorithms and reaction timings.
+1. **Memory Manager Simulation**  
+   - Learn how memory can be read and manipulated in a safe sandbox.  
+   - Understand pointers, addresses, and memory offsets.  
 
-- **Enhanced ESP**:  
-  Displays the location, health, and movement of entities in real time, even through obstacles. Allows users to analyze map dynamics and player behaviors.
+2. **Module Loader**  
+   - Demonstrates loading and unloading independent modules at runtime.  
+   - Each module can be toggled independently to test isolated functionality.  
 
-- **Recoil Control**:  
-  Eliminates weapon recoil to ensure consistent shooting accuracy. Useful for understanding aiming mechanics and weapon handling.
+3. **Configuration System**  
+   - Full JSON-based configuration for all modules.  
+   - Supports hotkey mapping, parameter tuning, and saving/loading settings.  
 
-- **Movement Enhancements**:  
-  Adjustable speed and agility modifications to study movement physics and character interactions.
+4. **Hotkey Integration**  
+   - Bind keys to enable or disable features dynamically.  
+   - Helps understand event-driven programming.  
 
-- **Custom Configuration**:  
-  All features can be adjusted individually through a local configuration file (`config.json`) or a built-in interface.
+5. **Logging System**  
+   - Detailed logs showing module activation, parameter values, and runtime events.  
+   - Encourages learning debugging and monitoring techniques.
 
-- **Modular Hotkeys**:  
-  Each feature can be toggled independently via hotkeys, providing precise control during testing.
+6. **Simulation Environment**  
+   - Provides a virtual sandbox where learners can safely test all features.  
+   - Includes pre-built “dummy targets” to simulate game entities.  
 
-- **Stealth & Safety**:  
-  Designed to minimize potential detection in controlled, offline environments. Users can selectively enable features to test scenarios safely.
+---
 
 ## Installation
 
-Follow these steps to set up Karima:
+To set up this educational framework:
 
-1. Clone the repository:
+1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/karima-cheat.git
-cd karima-cheat
+git clone https://github.com/yourusername/fortnite-educational.git
+cd fortnite-educational
