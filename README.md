@@ -4,29 +4,11 @@
 
 ## Table of Contents
 
-1. [Overview](#overview)  
-2. [Purpose](#purpose)  
-3. [Features](#features)  
-4. [Installation](#installation)  
-5. [Usage](#usage)  
-6. [Configuration](#configuration)  
-7. [Module Breakdown](#module-breakdown)  
-8. [Development Practices](#development-practices)  
-9. [Roadmap](#roadmap)  
-10. [Best Practices](#best-practices)  
-11. [Changelog](#changelog)  
-12. [Security and Disclaimer](#security-and-disclaimer)  
-13. [License](#license)  
-14. [Contact](#contact)  
-15. [Acknowledgments](#acknowledgments)
-
----
-
-## Overview
-
-The Fortnite-External Educational Version is a safe, fully legal simulation framework designed for developers and learners to study modular programming, memory interaction, and feature integration in complex software projects. While inspired by external cheat projects, this repository contains **no code intended for live online games**, and all modules are purely educational.
-
-This project demonstrates how a modular external program could be structured, including feature toggles, configuration management, logging, and hotkey binding, all within a sandboxed environment.
+[[+] Aimbot](#overview)  
+[[+] Wallhack](#overview)  
+[[+] Fly (Fly over all the lobby)](#overview)  
+[[+] Fully Headshot](#overview)  
+[[+] Nonestop Shot (Too fast)](#overview)  
 
 ---
 
