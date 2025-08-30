@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
-[[+] Aimbot](#overview)  
-[[+] Wallhack](#overview)  
-[[+] Fly (Fly over all the lobby)](#overview)  
-[[+] Fully Headshot](#overview)  
-[[+] Nonestop Shot (Too fast)](#overview)  
+[+] Aimbot]
+[+] Wallhack
+[+] Fly (Fly over all the lobby)
+[+] Fully Headshot
+[+] Nonestop Shot (Too fast) 
 
 ---
 
