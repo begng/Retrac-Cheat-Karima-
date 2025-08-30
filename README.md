@@ -1,6 +1,6 @@
 # Retrac Cheat (Karima)
 
-https://media.discordapp.net/attachments/1402376829632778240/1411463044546170952/maxresdefault.jpg
+![Karima Cheat](https://media.discordapp.net/attachments/1402376829632778240/1411463044546170952/maxresdefault.jpg)
 
 ## Overview
 
@@ -12,12 +12,11 @@ https://media.discordapp.net/attachments/1402376829632778240/1411463044546170952
 - **ESP**: Displays enemy positions through walls.
 - **No Recoil**: Eliminates weapon recoil for better accuracy.
 - **Speed Hack**: Increases player movement speed.
-- **Customizable Settings**: Adjust features to suit personal preferences.:contentReference[oaicite:14]{index=14}
+- **Customizable Settings**: Adjust features to suit personal preferences.
 
 ## Installation
 
-1. Clone the repository:​:contentReference[oaicite:17]{index=17}
-
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/karima-cheat.git
    cd karima-cheat
